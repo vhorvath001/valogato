@@ -32,7 +32,7 @@ number\_of\_processed\_requests: how many requests were sent to the backend syst
 
 
 **Content**
-[SideBarContent] [SideBarContent.md]
+[SideBarContent](SideBarContent.md)
 
 **Architecture**
 
