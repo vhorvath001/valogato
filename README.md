@@ -31,9 +31,10 @@ max\_loading : the value is defined in the configuration XML and it means how ma
 number\_of\_processed\_requests: how many requests were sent to the backend system but their response haven't arrived back yet
 
 
-**Content**
-[SideBarContent](SideBarContent.md)
-
 **Architecture**
 
 ![http://wiki.valogato.googlecode.com/hg/images/8-architecture.png](http://wiki.valogato.googlecode.com/hg/images/8-architecture.png)
+
+# Help content #
+
+[Copntent](SideBarContent.md)
