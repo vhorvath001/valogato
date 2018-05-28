@@ -8,6 +8,10 @@ If the backend systems are overwhelmed with requests the possible outcome is tha
 
 A pretty detailed description can be found in this blog: http://javaisourfriend.blogspot.co.uk/2013/08/java-throttling-valogato.html
 
+**Architecture**
+
+![images/8-architecture.png](images/8-architecture.png)
+
 Briefly how it works: There are two ways to apply the throttling framework:
   * Using the Valogato framework directly in the service client code, more information: [Using the Valogato framework in the client](DirectUse.md)
   * A fake service must be deployed in front of the service that must be protected. The endpoint URL of the real service has to be changed in the client(s) to refer to this simulated service.
@@ -30,10 +34,6 @@ ELSE backend cannot be called
 max\_loading : the value is defined in the configuration XML and it means how many requests can be processed maximum in a specific backend service at the same
 number\_of\_processed\_requests: how many requests were sent to the backend system but their response haven't arrived back yet
 
-
-**Architecture**
-
-![images/8-architecture.png](images/8-architecture.png)
 
 # Help content #
 
