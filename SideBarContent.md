@@ -1,4 +1,3 @@
-  * [Introduction](Introduction.md)
   * [Simulated Service Developing](SimulatedServiceDeveloping.md)
     * [Creating the simulated service interface](CreatingTheSimulatedServiceInterface.md)
     * [Why is cache needed](WhyCacheNeeded.md)

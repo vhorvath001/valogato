@@ -3,4 +3,4 @@ The Apache Shiro framework (http://shiro.apache.org/) is used for authentication
 
 If the default shiro configuration is used then the username is 'administrator' and the password is 'throttling'. The user has the 'Administrator' role in this case.
 
-![http://wiki.valogato.googlecode.com/hg/images/1-login.png](http://wiki.valogato.googlecode.com/hg/images/1-login.png)
+![images/1-login.png](images/1-login.png)

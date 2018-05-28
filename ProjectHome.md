@@ -10,7 +10,7 @@ It is not allowed to overwhelm the backend systems with requests so the number o
 
 As the number of the client requests increase the danger of backend service not being able to serve these requests can rise and eventually crashing the system and therefore increasing the response time (it gets more than expected).
 
-![http://wiki.valogato.googlecode.com/hg/images/9-start.jpg](http://wiki.valogato.googlecode.com/hg/images/9-start.jpg)
+![images/9-start.jpg](images/9-start.jpg)
 
 The basic idea is to put an intermediate station (a Valogato simulated service) between the client and the service (the throttling can be used directly in your client code too). If the number of the served requests is within a specific limit the intermediate station will allow the request to go through otherwise a logic (feature) will be executed by the simulated service.
 See more information about the features: http://javaisourfriend.blogspot.co.uk/2013/08/java-throttling-valogato.html

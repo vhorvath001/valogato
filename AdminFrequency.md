@@ -8,7 +8,7 @@ The values of the frequency and waiting request can be edited on a different pag
 It is important to mention that a new backend service cannot be added and an existing one cannot be removed.
 
 List:
-![http://wiki.valogato.googlecode.com/hg/images/2-frequency-list.png](http://wiki.valogato.googlecode.com/hg/images/2-frequency-list.png)
+![images/2-frequency-list.png](images/2-frequency-list.png)
 
 Update:
-![http://wiki.valogato.googlecode.com/hg/images/3-frequency-update.png](http://wiki.valogato.googlecode.com/hg/images/3-frequency-update.png)
+![images/3-frequency-update.png](images/3-frequency-update.png)

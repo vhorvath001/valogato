@@ -33,8 +33,8 @@ number\_of\_processed\_requests: how many requests were sent to the backend syst
 
 **Architecture**
 
-![http://wiki.valogato.googlecode.com/hg/images/8-architecture.png](http://wiki.valogato.googlecode.com/hg/images/8-architecture.png)
+![images/8-architecture.png](images/8-architecture.png)
 
 # Help content #
 
-[Copntent](SideBarContent.md)
+[Content](SideBarContent.md)
