@@ -10,7 +10,8 @@
 ## Version 1.1 ##
 
   * **Valogato Core**
-> > | [thr-core-1.1.jar](http://bit.ly/19Tf2xE) | [thr-core-1.1-sources.jar](http://bit.ly/1kR5gAz) | [thr-core-1.1-javadoc.jar](http://bit.ly/19uCRLR) |
+  ** [thr-core-1.1.jar](http://bit.ly/19Tf2xE)
+  ** [thr-core-1.1-sources.jar](http://bit.ly/1kR5gAz) | [thr-core-1.1-javadoc.jar](http://bit.ly/19uCRLR) |
 |:------------------------------------------|:--------------------------------------------------|:--------------------------------------------------|
   * **Valogato Web Application**
 > > | [thr-web-admin-1.1.war](http://bit.ly/1fR1oLU) | [thr-web-admin-1.1-sources.jar](http://bit.ly/KcHYqr) |
